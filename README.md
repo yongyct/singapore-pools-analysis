@@ -8,6 +8,8 @@ The following libraries are used for this notebook:
 * numpy
 * pandas
 * matplotlib
+* sklearn
+* lightgbm
 
 # Analysis:
 * 4D Winning Numbers
