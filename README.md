@@ -3,6 +3,7 @@ Analysis of Winning Statistics of Singapore Pools
 
 # Getting Started
 ## Prerequisites
+This project uses jupyter notebook, see [here](https://jupyter.readthedocs.io/en/latest/install.html) for installation
 The following libraries are used for this notebook:
 * beautifulsoup4
 * numpy
