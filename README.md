@@ -19,11 +19,12 @@ The following libraries are used for this notebook (installed via [anaconda](htt
 * Toto Outlets
 
 # TODO:
-* Plot geoloc info in basemap
+* Plot geoloc info in `basemap`
   * Reference:
     * Onemap (Limited Functionality) - https://docs.onemap.sg/#search
     * Geocoding - https://developers.google.com/maps/documentation/geocoding/intro
   * Geocoding API Endpoint - https://maps.googleapis.com/maps/api/geocode/json?address=[**url encoded address**]&key=**YOUR_API_KEY**
+  * Might checkout `geopandas` too
 
 # References
 * 4D Results - http://www.singaporepools.com.sg/en/product/Pages/4d_results.aspx
