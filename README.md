@@ -6,7 +6,7 @@ Analysis of Winning Statistics of Singapore Pools
 This project uses jupyter notebook, see [here](https://jupyter.readthedocs.io/en/latest/install.html) for installation.
 
 The following libraries are used for this notebook (installed via [anaconda](https://www.anaconda.com/distribution/)):
-* `beautifulsoup4`
+* `beautifulsoup4` (with `basemap-data-hire`)
 * `numpy`
 * `pandas`
 * `matplotlib`
