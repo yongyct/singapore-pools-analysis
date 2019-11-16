@@ -20,7 +20,7 @@ The following libraries are used for this notebook (installed via [anaconda](htt
 * Toto Outlets
 
 # Others:
-*Would appreciate help with getting sales volume data for lottery sales channels to make more accurate winning analysis*
+*Would appreciate help with getting lottery sales volume data for the various sales channels to make more accurate winning analysis*
 
 # References
 * 4D Results - http://www.singaporepools.com.sg/en/product/Pages/4d_results.aspx
